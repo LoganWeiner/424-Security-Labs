@@ -1,0 +1,1065 @@
+http://www.csrflabelgg.com/action/login
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 88
+Cookie: Elgg=dhr2cntt58fbcqi491rnjd3hd7
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+__elgg_token=7f5SgXHAkem_KO4AqPXnog&__elgg_ts=1666739196&username=boby&password=seedboby
+POST: HTTP/1.1 302 Found
+Date: Tue, 25 Oct 2022 23:07:23 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1; path=/
+Location: http://www.csrflabelgg.com/
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+POST: HTTP/1.1 302 Found
+Date: Tue, 25 Oct 2022 23:07:24 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Location: http://www.csrflabelgg.com/activity
+Content-Length: 0
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/activity
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+POST: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:24 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 2937
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/font-awesome/css/font-awesome.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 6666
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 12239
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/lightbox/elgg-colorbox-theme/colorbox.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1339
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/serve-file/e0/l1501101488/di/c0/ixqFA__ui3ana4aV1NNDEF3qgz0rmpO5IlbpIAZqMyo/1/43/profile/43topbar.jpg
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Cache-Control: public
+Last-Modified: Wed, 26 Jul 2017 20:38:08 GMT
+Content-Disposition: inline; filename="43topbar.jpg"
+Content-Length: 874
+Accept-Ranges: bytes
+Expires: Wed, 25 Oct 2023 23:07:25 GMT
+ETag: "1501101488"
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: image/jpeg
+---------------------
+http://www.csrflabelgg.com/serve-file/e0/l1501101488/di/c0/RyxtrIQU0BFe7DOqB2Hcvfx3-VkLRkzmIvOBB8B3lRI/1/43/profile/43tiny.jpg
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Cache-Control: public
+Last-Modified: Wed, 26 Jul 2017 20:38:08 GMT
+Content-Disposition: inline; filename="43tiny.jpg"
+Content-Length: 1144
+Accept-Ranges: bytes
+Expires: Wed, 25 Oct 2023 23:07:25 GMT
+ETag: "1501101488"
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/jpeg
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/jquery.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 29822
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/jquery-ui.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/require_config.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 310
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/require.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 21132
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 29907
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Referer: http://www.csrflabelgg.com/cache/1549469429/default/font-awesome/css/font-awesome.css
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/languages/en.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 25115
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/init.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 363
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/ready.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 200
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/Plugin.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 368
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/core/river/filter.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Tue, 25 Apr 2023 23:07:26 GMT
+Cache-Control: public
+Pragma: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 277
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/reportedcontent.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Tue, 25 Apr 2023 23:07:26 GMT
+Cache-Control: public
+Pragma: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 866
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/blog/owner/boby
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/activity
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:55 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 2813
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/font-awesome/css/font-awesome.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 6666
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 12239
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/lightbox/elgg-colorbox-theme/colorbox.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1339
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/jquery.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 29822
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/jquery-ui.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/require_config.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 310
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/require.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 21132
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 29907
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/languages/en.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 25115
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/init.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 363
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/ready.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 200
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/reportedcontent.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Tue, 25 Apr 2023 23:07:26 GMT
+Cache-Control: public
+Pragma: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 866
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/Plugin.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 368
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/blog/all
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/owner/boby
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:59 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 2437
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/font-awesome/css/font-awesome.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 6666
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 12239
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/lightbox/elgg-colorbox-theme/colorbox.css
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1339
+Content-Type: text/css;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/jquery.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 29822
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/jquery-ui.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/require_config.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:25 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 310
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/require.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 21132
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:26 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 29907
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/languages/en.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 25115
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/init.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 363
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/ready.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 200
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/reportedcontent.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2022 23:07:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Tue, 25 Apr 2023 23:07:26 GMT
+Cache-Control: public
+Pragma: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 866
+Content-Type: application/javascript;charset=utf-8
+---------------------
+http://www.csrflabelgg.com/cache/1549469429/default/elgg/Plugin.js
+Host: www.csrflabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.csrflabelgg.com/blog/all
+Cookie: Elgg=04eekugsg7dj7n3potkktgg9o1
+Connection: keep-alive
+
+GET: HTTP/1.1 200 OK
+Date: Mon, 24 Oct 2022 19:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Mon, 24 Apr 2023 19:47:27 GMT
+Pragma: public
+Cache-Control: public
+ETag: "1549469429-gzip"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 368
+Content-Type: application/javascript;charset=utf-8
+---------------------
